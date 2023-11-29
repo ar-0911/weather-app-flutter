@@ -43,3 +43,6 @@ Welcome to the Weather App! This Flutter application provides real-time weather 
 ## Future Upgrades
 1. Instead of just getting the current weather, get the weather for the whole day.
 2. Improving the User Interface and adding animations.
+
+   #### Note
+   1. Use your API KEY under services/weather.dart
