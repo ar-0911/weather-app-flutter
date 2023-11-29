@@ -31,9 +31,16 @@ Welcome to the Weather App! This Flutter application provides real-time weather 
    flutter run
 3. Open the emulator or connect your device
 4. The app will ask for location permission once approved it will fetch the current weather of your location
-5. To check weather of a different location, you can use the manual input feature.
+5. To check the weather of a different location, you can use the manual input feature.
 
+
+![firstPage](https://github.com/ar-0911/weather-app-flutter/assets/92566219/c7ee4300-f15c-4447-b608-33f1cc329882)
+
+   
+![secondPage](https://github.com/ar-0911/weather-app-flutter/assets/92566219/0ea4da96-2554-4859-b288-f0ba240495cc)
+
+![thirdPage](https://github.com/ar-0911/weather-app-flutter/assets/92566219/2dfea50a-7d0d-45af-8c93-224eeadb890c)
 
 ## Future Upgrades
-1. Instead of just getting the current weather, getting the weather for the whole day.
+1. Instead of just getting the current weather, get the weather for the whole day.
 2. Improving the User Interface and adding animations.
