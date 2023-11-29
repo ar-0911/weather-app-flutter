@@ -33,12 +33,12 @@ Welcome to the Weather App! This Flutter application provides real-time weather 
 4. The app will ask for location permission once approved it will fetch the current weather of your location
 5. To check the weather of a different location, you can use the manual input feature.
 
-<img src="https://user-images.githubusercontent.com/[link-to-your-image.png](https://github.com/ar-0911/weather-app-flutter/assets/92566219/c7ee4300-f15c-4447-b608-33f1cc32988)" width="50" />
+<img src="https://github.com/ar-0911/weather-app-flutter/assets/92566219/c7ee4300-f15c-4447-b608-33f1cc32988" width="50" />
 
 
-   <img src="https://user-images.githubusercontent.com/[link-to-your-image.png](https://github.com/ar-0911/weather-app-flutter/assets/92566219/0ea4da96-2554-4859-b288-f0ba240495cc)" width="50" />
+   <img src="https://github.com/ar-0911/weather-app-flutter/assets/92566219/0ea4da96-2554-4859-b288-f0ba240495cc" width="50" />
 
-<img src="https://user-images.githubusercontent.com/[link-to-your-image.png](https://github.com/ar-0911/weather-app-flutter/assets/92566219/2dfea50a-7d0d-45af-8c93-224eeadb890)" width="50" />
+<img src="https://github.com/ar-0911/weather-app-flutter/assets/92566219/2dfea50a-7d0d-45af-8c93-224eeadb890" width="50" />
 
 
 ## Future Upgrades
